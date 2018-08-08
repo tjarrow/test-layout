@@ -135,6 +135,7 @@ a {
 .content-upper-text {
 	width: 54%;
 	float: left;
+	margin-top: 3%;
 	margin-left: 3%;
 }
 
@@ -184,7 +185,7 @@ a {
 	font-size: 16px;
 }
 
-.content-block:nth-child(odd) {
+.content-block:nth-child(even) {
 	float: right;
 }
 
